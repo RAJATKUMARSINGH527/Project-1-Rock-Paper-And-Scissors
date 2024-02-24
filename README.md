@@ -34,7 +34,7 @@ The project consists of the following files:
 
 
     ```
-        git clone https://github.com/KishanKumar08/Project_1-Rock-Paper-Scissor-Game.git
+        git clone https://github.com/RAJATKUMARSINGH527/Project-1-Rock-Paper-And-Scissors.git
     ```    
 
 
