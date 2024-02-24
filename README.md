@@ -8,29 +8,28 @@ The project aims to demonstrate basic Python programming concepts while implemen
 
 ## Features
 
-- *User Input*: Players can input their choice of "rock", "paper", or "scissors".
-- *Random Selection*: The computer randomly selects its choice.
-- *Game Logic*: The game logic determines the winner based on the choices made by the player and the computer.
-- *Score Tracking*: The game keeps track of the player's and computer's scores throughout multiple rounds.
-- *Multiple Rounds*: The game continues until the player decides to quit.
-- *User-Friendly Interface*: The game provides clear instructions and prompts for the player.
+- **User Input**: Players can input their choice of "rock", "paper", or "scissors".
+- **Random Selection**: The computer randomly selects its choice.
+- **Game Logic**: The game logic determines the winner based on the choices made by the player and the computer.
+- **Score Tracking**: The game keeps track of the player's and computer's scores throughout multiple rounds.
+- **Multiple Rounds**: The game continues until the player decides to quit.
+- **User-Friendly Interface**: The game provides clear instructions and prompts for the player.
 
 ## Technologies Used
 
-- *Python*: The core programming language used for development.
-- *Random Module*: Utilized for generating random selections for the computer's moves.
+- **Python**: The core programming language used for development.
+- **Random Module**: Utilized for generating random selections for the computer's moves.
 
 ## Project Structure
 
 The project consists of the following files:
 
-1. *Project1RockPaperScissors.py*: The main Python script containing the game logic.
-2. *README.md*: This Markdown file providing an overview of the project.
-3. *LICENSE*: The license file defining the terms of use for the project.
+1. `Project1RockPaperScissors.py`: The main Python script containing the game logic.
+2. `README.md`: This Markdown file providing an overview of the project.
 
 ## How to Play
 
-1. *Clone the Repository*: Clone the project repository to your local machine using the following command:
+1. Clone the Repository: Clone the project repository to your local machine using the following command:
 
 
     ```
@@ -39,9 +38,9 @@ The project consists of the following files:
 
 
 
-2. *Navigate to the Project Directory*: Move into the directory where the project is cloned.
+2. Navigate to the Project Directory: Move into the directory where the project is cloned.
 
-3. *Run the Game*: Execute the Python script Project1RockPaperScissors.py using the Python interpreter:
+3. Run the Game: Execute the Python script `Project1RockPaperScissors.py` using the Python interpreter:
 
 
     ```
@@ -49,11 +48,11 @@ The project consists of the following files:
     ```    
 
 
-4. *Follow the Prompts*: The game will prompt you to enter your choice for each round. Type "rock", "paper", or "scissors" and hit Enter.
+4. Follow the Prompts: The game will prompt you to enter your choice for each round. Type "rock", "paper", or "scissors" and hit Enter.
 
-5. *View Results*: After each round, the game will display the result, including who won the round and the current score.
+5. View Results: After each round, the game will display the result, including who won the round and the current score.
 
-6. *Play Again or Quit*: You can choose to play another round or exit the game when prompted.
+6. Play Again or Quit: You can choose to play another round or exit the game when prompted.
 
 ## Contributions
 
