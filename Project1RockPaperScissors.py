@@ -85,4 +85,3 @@ print("\nFinal Scores of Both of the Players🙌 :- 👇")
 print("\nComputer Score", Computer_Score, "Points✌️.")
 print("\nPlayer Score", Player_Score, "Points👏.")
 print("\nTotal Numbers of Tie🤝", Total_Tie, "in the Game🎮.")
-```
